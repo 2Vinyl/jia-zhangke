@@ -2,4 +2,5 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
 titile: 贾樟柯电影音乐
+name: ""
 description: 配乐--林强
